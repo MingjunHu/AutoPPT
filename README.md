@@ -1,4 +1,4 @@
-# ChatPPT
+# AutoPPT
 
 ## 目录
 
